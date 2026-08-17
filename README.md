@@ -6,7 +6,7 @@
 
 | 🚀 稳定高速专线直达 | 📢 Telegram Project Community频道 |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/httpsapi-flowercloud.comaff.phpaff=24532.png" width="300" /> | <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/dextjh.png" width="300" /> |
+| <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/flowers.png" width="300" /> | <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/dextjh.png" width="300" /> |
 
 </div>
 

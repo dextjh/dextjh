@@ -10,8 +10,6 @@
 
 <div align="center">
 
-  <a href="sha256:1aee62ee734960cd2d3359e6fbe09ecdcca2ca346b7602970bacf40b34f1af6a" style="display: inline-block; padding: 12px 30px; background-color: #0969da; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    📥 点击下载 Android 客户端 (APK)
-  </a>
+[![点击下载客户端](https://img.shields.io/badge/📥_点击直接下载_Android_客户端-0969da?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dextjh/dextjh/releases/latest)
 
 </div>

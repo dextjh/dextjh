@@ -10,8 +10,8 @@
 
 <div align="center">
 
-  <a href="sha256:1aee62ee734960cd2d3359e6fbe09ecdcca2ca346b7602970bacf40b34f1af6a">
-    <img src="https://img.shields.io/badge/📥_点击下载-Android_App_客户端-blue?style=for-the-badge&logo=android" alt="Download App">
+  <a href="sha256:1aee62ee734960cd2d3359e6fbe09ecdcca2ca346b7602970bacf40b34f1af6a" style="display: inline-block; padding: 12px 30px; background-color: #0969da; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    📥 点击下载 Android 客户端 (APK)
   </a>
 
 </div>

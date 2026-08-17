@@ -10,6 +10,10 @@
 
 <div align="center">
 
-[![点击下载客户端](https://img.shields.io/badge/📥_点击直接下载_Android_客户端-0969da?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dextjh/dextjh/releases/latest)
+*（跨境高效协同办公、海外独立开发者账号与集成配置支持）*
+
+<br>
+
+[![点击下载客户端](https://img.shields.io/badge/📥_点击直接下载_ANDROID_客户端-0969da?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dextjh/dextjh/releases/download/v2.0.0/dextjh.apk)
 
 </div>

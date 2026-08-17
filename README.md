@@ -14,6 +14,6 @@
 
 <br>
 
-[![点击下载客户端](https://img.shields.io/badge/📥_点击直接下载_ANDROID_客户端-0969da?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dextjh/dextjh/releases/download/v2.0.0/dextjh.apk)
+[![点击下载客户端](https://img.shields.io/badge/📥_点击查看并下载_ANDROID_客户端-0969da?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dextjh/dextjh/releases/tag/v2.0.0)
 
 </div>

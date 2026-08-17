@@ -2,7 +2,13 @@
 
 欢迎来到我的主页！这里是为您准备的跨境网络传输与连接加速通道：
 
-![加速通道二维码](https://raw.githubusercontent.com/dextjh/dextjh/main/httpsapi-flowercloud.comaff.phpaff=24532.png)
+<div align="center">
+
+| 🚀 稳定高速专线直达 | 📢 Telegram Project Community频道 |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/httpsapi-flowercloud.comaff.phpaff=24532.png" width="300" /> | <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/dextjh.png" width="300" /> |
+
+</div>
 
 > **💡 安全提示**：
 > 请使用**手机自带浏览器**或**相册扫一扫**识别上方二维码，建议避免在部分即时通讯软件中直接长按以防拦截。

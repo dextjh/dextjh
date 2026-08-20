@@ -4,16 +4,29 @@
 
 ---
 
-### 🚀 常用服务与网络资源
+### 🚀 网络加速与专线配置
 
-| 资源类别 | 说明 | 快速直达 | 交流支持 |
-| :--- | :--- | :---: | :---: |
-| **网络加速与配置** | 稳定跨境传输与连接加速通道 | <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/flowers.png" width="140" alt="专线直达" /> | <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/dextjh.png" width="140" alt="Telegram 频道" /> |
+提供稳定跨境网络传输与海外连接加速支持：
 
-> 💡 **提示**：建议使用系统自带浏览器扫描直达，或加入 Telegram 频道获取最新节点与集成配置支持。
+* **服务入口**：[👉 点击直达 FlowerCloud 注册/登录通道](https://api-flowercloud.com/aff.php?aff=24532)
+* **扫码访问**：手机浏览器/相机扫描下方二维码直达
+
+<a href="你的FlowerCloud推广链接">
+  <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/flowers.png" width="160" alt="FlowerCloud 专线直达二维码" />
+</a>
 
 ---
 
+### 💬 交流与技术支持
+
+加入 Telegram 频道获取最新节点更新、配置教程及独立开发者交流支持：
+
+* **频道直达**：[👉 点击加入 Telegram Project Community (@DEXTJH)](https://t.me/你的频道链接)
+* **扫码直达**：
+
+<a href="https://t.me/你的频道链接">
+  <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/dextjh.png" width="160" alt="Telegram 频道二维码" />
+</a>
 ### 📦 跨境海淘与硬件转运推荐
 
 海外采购开发板、服务器配件或海淘电子产品时，推荐使用免税州转运服务：

@@ -27,6 +27,9 @@
 <a href="https://t.me/你的频道链接">
   <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/dextjh.png" width="160" alt="Telegram 频道二维码" />
 </a>
+
+
+
 ### 📦 跨境海淘与硬件转运推荐
 
 海外采购开发板、服务器配件或海淘电子产品时，推荐使用免税州转运服务：

@@ -38,7 +38,7 @@
 
 * **核心特点**：提供俄勒冈免税州收货地址、支持多包裹合箱与拍照验货。
 * **访问方式**：
-  * 💻 **电脑端**：[点击直达 Planet Express 官网注册](https://planetexpress.com/?ref=374016)
+  * 💻 **电脑端**：[点击直达官网注册](https://planetexpress.com/?ref=374016)
   * 📱 **手机端**：微信 / 系统相机扫码下方二维码直达
 
 <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/planetexpress.png" width="160" alt="Planet Express 注册二维码" />

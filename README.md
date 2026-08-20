@@ -28,13 +28,14 @@
   <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/dextjh.png" width="160" alt="Telegram 频道二维码" />
 </a>
 
+---
+
 
 
 ### 📦 跨境海淘与硬件转运推荐
 
 海外采购开发板、服务器配件或海淘电子产品时，推荐使用免税州转运服务：
 
-* **服务商**：**Planet Express**
 * **核心特点**：提供俄勒冈免税州收货地址、支持多包裹合箱与拍照验货。
 * **访问方式**：
   * 💻 **电脑端**：[点击直达 Planet Express 官网注册](https://planetexpress.com/?ref=374016)

@@ -8,7 +8,7 @@
 
 提供稳定跨境网络传输与海外连接加速支持：
 
-* **服务入口**：[👉 点击直达 FlowerCloud 注册/登录通道](https://api-flowercloud.com/aff.php?aff=24532)
+* **服务入口**：[👉 点击直达  注册/登录通道](https://api-flowercloud.com/aff.php?aff=24532)
 * **扫码访问**：手机浏览器/相机扫描下方二维码直达
 
 <a href="你的FlowerCloud推广链接">
@@ -21,7 +21,7 @@
 
 加入 Telegram 频道获取最新节点更新、配置教程及独立开发者交流支持：
 
-* **频道直达**：[👉 点击加入 Telegram Project Community (@DEXTJH)](https://t.me/你的频道链接)
+* **频道直达**：[👉 点击加入 Telegram Project Community (@DEXTJH)](https://t.me/dextjh)
 * **扫码直达**：
 
 <a href="https://t.me/你的频道链接">

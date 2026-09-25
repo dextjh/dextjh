@@ -36,14 +36,20 @@
 
 #### 🔹 路线一：铭宣海淘（首选推荐 · 高性价比阳光包税专线）
 * **核心优势**：提供美国俄勒冈（OR）免税州收货地址、首重仅 **53 元/磅起**、支持多包裹**免费合箱**、自营包税阳光清关、国内顺丰/主流快递直达。
-* **访问入口**：
-  * 💻 **专属注册入口**：[👉 点击直达官网注册（自带专属优惠码：MVEEY）](https://www.mxhaitao.com:443/web/profile/register?reid=MVEEY)
-  * 📋 **运费标准参考**：[点击查看美国仓库最新资费说明](https://www.mxhaitao.com:443/fee/meiguo.html?reid=MVEEY)
+* **访问方式**：
+  * 💻 **电脑端**：[👉 点击直达官网注册（自带专属优惠码：MVEEY）](https://www.mxhaitao.com:443/web/profile/register?reid=MVEEY)
+  * 📱 **手机端**：微信 / 系统相机扫码下方二维码直达
+
+<a href="https://www.mxhaitao.com:443/web/profile/register?reid=MVEEY" target="_blank">
+  <img src="https://raw.githubusercontent.com/dextjh/dextjh/main/mxhaitao.png" width="160" alt="铭宣海淘 注册二维码" />
+</a>
+
+---
 
 #### 🔹 路线二：Planet Express（全球转运 · 国际万国邮联通道）
 * **核心优势**：支持转运至全球多个国家和地区、国际邮政（USPS）通道、提供加州及俄勒冈免税州地址、支持拍照验货。
 * **访问方式**：
-  * 💻 **电脑端**：[点击直达官网注册](https://planetexpress.com/?ref=374016)
+  * 💻 **电脑端**：[👉 点击直达官网注册](https://planetexpress.com/?ref=374016)
   * 📱 **手机端**：微信 / 系统相机扫码下方二维码直达
 
 <a href="https://planetexpress.com/?ref=374016" target="_blank">
